@@ -7,12 +7,12 @@ class Test{
     public String name(){
 
      String student;
-     student="Shreya";
+     student="Ishika";
      return student;    
     }
 
     public float fees(){
-        float fee= 20000.02f;
+        float fee= 30000.02f;
         return fee;
     }
 }
@@ -21,8 +21,8 @@ class Test2{
      
     public int roll(){
       int rollNum;
-      rollNum =18;
-      return 18;
+      rollNum =20;
+      return 20;
     }
 
     public char ch(){
