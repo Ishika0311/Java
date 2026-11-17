@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 public class UserDao {
     public List<Users> displayUsers() {
-        Users user1 = new Users(1, "Shreya", "Pune");
-        Users user2 = new Users(2, "Riya", "Mumbai");
+        Users user1 = new Users(1, "Ishika", "Pune");
+        Users user2 = new Users(2, "Vanshi", "Mumbai");
         // System.out.println(user1);
         // System.out.println(user2);
         List<Users> List = new ArrayList<Users>();
